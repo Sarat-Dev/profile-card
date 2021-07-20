@@ -68,7 +68,7 @@ body {
 }
 
 .background-img {
-  background-image: url("../images/bg-pattern-card.svg");
+  background-image: url("bg-pattern-card.svg");
   width: 280px;
   height: 70px;
   padding-top: 70px;
@@ -76,7 +76,6 @@ body {
 }
 
 .profilepic {
-  background-image: url("../images/bg-pattern-card.svg");
   width: 96px;
   height: 96px; /* always half of width for circle shape*/
   border-radius: 48px 48px 48px 48px;
